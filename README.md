@@ -8,7 +8,11 @@
 - I learned that when setting up an <a> you cannot forget to add a # otherwise the link will break.
 - I also learned that just becuase setting a class for every section or element works; it is not the most efficient way to write your code.
 
-## screenshot
+## Screenshot
 
 '''md
 ![alt text](assets/images/Screenshot.jpg)
+
+## Link
+
+https://danielgoss22.github.io/Horiseon/
