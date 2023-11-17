@@ -36,10 +36,9 @@ body {
   font-size: 20px;
 }
 
-/* commented out because it was serving no purpose. */
-/* .header nav ul {
+.header nav ul {
   list-style-type: none;
-} */
+}
 
 .header nav ul li {
   display: inline-block;
